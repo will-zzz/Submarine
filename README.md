@@ -13,7 +13,7 @@ To open and edit this project, you must have **Unity 6** installed.
 ### Installation
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-username]/submarine-chaos.git
+    git clone https://github.com/will-zzz/Submarine.git
     ```
 2.  **Open in Unity Hub:** * Click "Add" -> "Add project from disk."
     * Select the cloned folder.
